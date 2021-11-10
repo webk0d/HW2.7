@@ -36,6 +36,4 @@ class PersonListViewController: UITableViewController {
         let person = personList[indexPath.row]
         personDetailsVC.person = person
     }
-
-
 }

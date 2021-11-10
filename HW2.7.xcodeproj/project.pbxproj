@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F719DA9E273C322700951A16 /* PersonInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F719DA9D273C322700951A16 /* PersonInfoViewController.swift */; };
 		F7385438273ADB600072D7CD /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7385437273ADB600072D7CD /* Person.swift */; };
 		F738543B273AE6810072D7CD /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F738543A273AE6810072D7CD /* DataManager.swift */; };
 		F738543E273B03580072D7CD /* PersonDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F738543D273B03580072D7CD /* PersonDetailsViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F719DA9D273C322700951A16 /* PersonInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonInfoViewController.swift; sourceTree = "<group>"; };
 		F7385437273ADB600072D7CD /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		F738543A273AE6810072D7CD /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		F738543D273B03580072D7CD /* PersonDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonDetailsViewController.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				F738543D273B03580072D7CD /* PersonDetailsViewController.swift */,
+				F719DA9D273C322700951A16 /* PersonInfoViewController.swift */,
 				F75BDD31273AC5C30072011B /* PersonListViewController.swift */,
 			);
 			path = ViewControllers;
@@ -200,6 +203,7 @@
 				F738543E273B03580072D7CD /* PersonDetailsViewController.swift in Sources */,
 				F75BDD20273AC58E0072011B /* SceneDelegate.swift in Sources */,
 				F75BDD32273AC5C30072011B /* PersonListViewController.swift in Sources */,
+				F719DA9E273C322700951A16 /* PersonInfoViewController.swift in Sources */,
 				F7385438273ADB600072D7CD /* Person.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
